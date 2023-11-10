@@ -7,4 +7,4 @@ import MyForm from "./components/latihan doang/MyForm";
 import "./styles/style.css";
 
 const root = createRoot(document.getElementById("root"));
-root.render(<MyForm />);
+root.render(<ContactApp />);
